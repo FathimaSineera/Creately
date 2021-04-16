@@ -1,0 +1,141 @@
+#navBar{
+    margin-top: 30px;
+}
+.NavMenu{
+    float: right;
+}
+.NavMenu li{
+    display: inline;
+}
+.NavMenu li a{
+    text-decoration: none;
+    color: inherit;
+}
+.menu-item{
+    margin: auto 30px;
+}
+.center-text {/*row center-text aen podalla???*/
+    text-align: center;
+    align-items: center;
+  }
+  
+  .head-text {
+    padding: 50px 0px 20px 0px;
+  }
+  
+  .head-sub-text {
+  }
+  
+  .home-text-item {
+    margin: 10px 0px;
+  }
+  
+  .home-info {
+    padding-top: 80px;
+    padding-bottom: 270px;
+  }
+  
+  .home-header {
+    font-family: "Poppins", sans-serif;
+    font-weight: 900;
+    font-size: 45px;
+    color: #04263d;
+  }
+  
+  .center {
+    margin: auto;
+  }
+  
+  .company-text {
+    padding-top: 50px;
+  }
+  
+  h3 {
+    color: #04263d;
+  }
+  
+  p {
+    font-size: 14px;
+  }
+  
+  .menu-content {
+    padding: 100px 0px;
+  }
+  
+  #footer {
+    padding-top: 150px;
+    padding-bottom: 100px;
+  }
+  
+  .footer-logo {
+    float: right;
+  }
+  
+  .bucket-title {
+    padding-top: 20px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-size: 16px;
+  }
+  
+  .bucket-text {
+    width: 80%;
+    height: 120px;
+  }
+  
+  img.bucket-image {
+    height: 190px;
+  }
+  
+  .button {
+    display: block;
+    width: 40%;
+    background: #4e9caf;
+    padding: 10px;
+    text-align: center;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    line-height: 25px;
+  }
+  
+  .button2 {
+    display: block;
+    width: 40%;
+    background: #04263d;
+    padding: 10px;
+    text-align: center;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    line-height: 25px;
+  }
+  
+  .customer-logos {
+    padding-top: 10px;
+  }
+  
+  .home-text-item {
+    vertical-align: middle;
+  }
+  .container {
+    max-width: 1050px !important;
+  }
+  
+  a{
+      color: inherit;
+  }
+  .nav-tabs li{
+      border: 10px ;
+  }
+  .nav-tabs li:hover{
+    border-right: 5px solid #64c5b4;
+  }
+  .nav-tabs li:active{
+      border-right: 5px solid #64c5b4;
+  }
+  .tab-title {
+    padding-bottom: 10px;
+  }
+  @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap");
+  
